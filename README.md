@@ -2,7 +2,7 @@
 
 ## Motivational Example
 
-In the Motivation folder, we upload the checkpoints and logs during training the structures used in the motivational example.
+In the MotivationEX folder, we upload the checkpoints and logs during training the structures used in the motivational example.
 One can test the accuracy of both architectures.
 
 ##### Usage of testing NAS without cutting
